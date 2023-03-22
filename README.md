@@ -154,13 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Wilson Osuji - [Github](https://github.com/wilsonosuji)
+Lawson Osuji - [Github](https://github.com/LeoIsTush)
 
-Marcela Sánchez - [Github](https://github.com/marcewp15) / [Twitter](http://twitter.com/marcewp15)
-Juan Carlos López - [Github](https://github.com/Juan-Bogota) / [Twitter](http://twitter.com/jclopez100)
-
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
 # AirBnB_clone_v3
